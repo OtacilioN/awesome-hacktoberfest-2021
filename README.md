@@ -1,8 +1,8 @@
 <a id="back-to-top"></a>
 
-# Awesome Hacktoberfest 2023 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Hacktoberfest 2024 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> We present a curated list of awesome Hacktoberfest 2023 repositories. If you enjoyed this resource, please leave a star ⭐ to support this project! ✨
+> We present a curated list of awesome Hacktoberfest 2024 repositories. If you enjoyed this resource, please leave a star ⭐ to support this project! ✨
 
 > To help ensure Hacktoberfest can be sustained for another decade, this year they’re moving away from a free t-shirt reward to a digital reward.[Find an organization here](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree) and claim awesome badges ⚡.
 
@@ -14,11 +14,10 @@
 
 - [Repositories Supporting First Timers](#repositories-supporting-first-timers)
 - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
-- [Excluded Repositories From Hacktoberfest 2023](#excluded-repositories-from-hacktoberfest-2023)
+- [Repositories for intermediate/Advanced Coders](##repositories-for-intermediate/advanced-coders)
 - [Guides and Resources](#guides-and-resources)
 - [Cli Tools](#cli-tools)
 - [Cheat sheets](#cheat-sheets)
-- [Meetups and Events](#meetups-and-events)
 
 ## Repositories Supporting First-Timers
 
@@ -69,36 +68,10 @@
 - [Wasp](https://github.com/wasp-lang/wasp)
 - [Formbricks](https://github.com/formbricks/formbricks)
 
-## Excluded Repositories From Hacktoberfest 2023
-
-- [app-ideas](https://github.com/florinpop17/app-ideas)
-- [Dev.HFest](https://github.com/debrajrout/Dev.HFest)
-- [DSA_Hacktoberfest2023](https://github.com/Saikat2407/DSA_Hacktoberfest2023)
-- [First contributions](https://github.com/firstcontributions/first-contributions)
-- [fork-commit-merge(nikohoffren)](https://github.com/nikohoffren/fork-commit-merge)
-- [Hacktoberfest(ossamamehmood)](https://github.com/ossamamehmood/Hacktoberfest)
-- [Hacktoberfest2023(ossamamehmood)](https://github.com/ossamamehmood/Hacktoberfest2023)
-- [hacktoberfest(fineanmol)](https://github.com/fineanmol/hacktoberfest)
-- [Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)
-- [Hacktoberfest2023(Ananya singh)](https://github.com/Ananyasingh2002/Hacktoberfest2023)
-- [HacktoberFest2023(Harshjot)](https://github.com/Harsh-jot/HacktoberFest-2023)
-- [Hacktoberfest_2023(Im-Soumya)](https://github.com/Im-Soumya/Hacktoberfest_2023/tree/master)
-- [Hello-World-hacktoberfest2023](https://github.com/arjuncvinod/Hello-World-hacktoberfest2023)
-- [Hacktoberfest2023(fineanmol)](https://github.com/fineanmol/Hacktoberfest2023)
-- [Hacktoberfest2023(Midway91)](https://github.com/Midway91/HactoberFest2023)
-- [Hacktoberfest-2023(UmangDalvadi)](https://github.com/UmangDalvadi/Hacktoberfest-2023)
-- [PreciousServices(SyedImtiyaz-1)](https://github.com/SyedImtiyaz-1/PreciousServices)
-- [Swags-for-Developers](https://github.com/MrKrishnaAgarwal/Swags-for-Developers)
-- [Web-Dev-Project-for-Hacktoberfest2023(surajsharma14)](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023)
-- [Btecky(laviii123)](https://github.com/laviii123/Btecky)
-- [The-Hello-World-Project(H4K3R13)](https://github.com/H4K3R13/The-Hello-World-Project)
-- [Cloudhustlers](https://github.com/SourceFusionHub/program)
-
 
 ## Guides and Resources
 
 - [A First-Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
-- [All you need to know about Hacktoberfest 2023](https://stellar-astronaut-ac5.notion.site/Hacktoberfest-Meetup-0010-7bc83284f1d24c37b54efe068382a31b?pvs=25)
 - [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
 - [awesome-datascience](https://github.com/academic/awesome-datascience)
 - [awesome-design-systems](https://github.com/alexpate/awesome-design-systems)
@@ -113,14 +86,7 @@
 - [Git Tutorial in Bahasa Indonesia](https://github.com/endymuhardin/belajarGit)
 - [Git Tutorial in Bahasa Indonesia 2](https://github.com/petanikode/belajar-git)
 - [Good First Issues](https://firstcontributions.github.io/)
-- [Hacktoberfest 2023 ZTM projects](https://github.com/zero-to-mastery/Hacktoberfest-2023)
-- [Hacktoberfest Profile](https://hacktoberfest.com/profile/)
-- [hacktoberfest-swag.com - Another Hacktoberfest swag list](https://github.com/benbarth/hacktoberfest-swag)
-- [Hacktoberfest Swag – New List of Companies Giving Out Swag For Hacktoberfest](https://hacktoberfest-swag.com/)
-- [Hacktoberfest Tracker Mobile App](https://play.google.com/store/apps/details?id=com.hacktoberfesttrackerapp) [github](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp)
-- [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
 - [HandsOn tutorial for PostgreSQL](https://www.youtube.com/watch?v=SpfIwlAYaKk&pp=ygUcZnJlZWNvZGVjYW1wIHdlYiBkZXZlbG9wbWVudA%3D%3D)
-- [How to Contribute to Hacktoberfest 2022](https://opensource.com/article/22/10/how-to-contribute-hacktoberfest)
 - [indonesian NLP resources](https://github.com/kirralabs/indonesian-NLP-resources)
 - [MIT - The Missing Semester](https://missing.csail.mit.edu/)
 - [Open Source Guide](https://opensource.guide/)
@@ -177,17 +143,8 @@
 - [Linux Command Line Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
 - [Scala Cheat Sheet](https://github.com/riiswa/Scala-CheatSheet)
 
-
-## Meetups and Events
-
-See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
-
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, [Otacilio Maia](https://github.com/OtacilioN) has waived all copyright and related or neighboring rights to this work.
-
-<!-- Add Back to Top Button -->
 
 [Back to top](#back-to-top)
